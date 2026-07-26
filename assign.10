@@ -1,7 +1,7 @@
-console.log("Name: Binayak Raj Aryal");
+console.log("Name: Suman Kumar Mahat");
 console.log("Roll:");
 
-let name="Binayak";
+let name="Suman";
 
 let marks=[73,89,72];
 let total=0;
